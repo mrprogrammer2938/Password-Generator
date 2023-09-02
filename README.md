@@ -3,7 +3,7 @@ Password Generator GUI v1.0
 <hr>
 
 ## Scr
-
+[![Password Generator Screen](https://github.com/mrprogrammer2938/Password-Generator/blob/master/Scr/password-generator-scr.jpg)](https://github.com/mrprogrammer2938/Password-Generator)
 
 
 ### Download For Windows
